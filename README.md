@@ -53,11 +53,6 @@ Welcome to the React E-commerce App! This project is a fully functional e-commer
     npm run build
     ```
 
-3. **Run tests** (if applicable):
-    ```sh
-    npm test
-    ```
-
 
 ## License
 
